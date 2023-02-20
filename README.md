@@ -1,0 +1,14 @@
+# virgo-user 6.0.1 MMB29M V9.5.1.0.MXEMIFA release-keys
+- manufacturer: xiaomi
+- platform: msm8974
+- codename: virgo
+- flavor: virgo-user
+- release: 6.0.1
+- id: MMB29M
+- incremental: V9.5.1.0.MXEMIFA
+- tags: release-keys
+- fingerprint: Xiaomi/virgo/virgo:6.0.1/MMB29M/V9.5.1.0.MXEMIFA:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: virgo-user-6.0.1-MMB29M-V9.5.1.0.MXEMIFA-release-keys
+- repo: xiaomi_virgo_dump
